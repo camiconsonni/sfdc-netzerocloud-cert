@@ -33,7 +33,14 @@
 
 ## Net Zero Cloud Fundamentals
 
-Regulators, investors, and customers are increasingly urging companies to get to net zero now. This means companies have to focus on sustainability and commit to a future where global temperatures rise no more than 1.5° Celsius. To do this, they need to pay attention to their carbon footprints and offsets.
+Expectations from Key Stakeholders Are Changing:
+- Investors Want Transparency and Action
+- Customers Want Ethical Practices
+- Employees Are Drawn to Values
+
+This means companies have to focus on sustainability and commit to a future where global temperatures rise no more than 1.5° Celsius. To do this, they need to pay attention to their carbon footprints and offsets.
+
+> **Carbon footprint** - An individual or organization’s contribution to greenhouse gas emissions into the atmosphere.
 
 > **Net Zero** - A net zero world is a world in balance. Achieving net zero on a global level means emitting no more greenhouse gases than we are able to remove, either by natural means or through technological solutions.
 
@@ -48,8 +55,6 @@ Regulators, investors, and customers are increasingly urging companies to get to
 ### Greenhouse Gas Emissions (GHG)
 
 The largest source of greenhouse gas (GHG) emissions comes from burning fossil fuels for electricity, heat, and transportation.
-
-> **Carbon footprint** - An individual or organization’s contribution to greenhouse gas emissions into the atmosphere.
 
 Primary greenhouse gases:
 
@@ -89,7 +94,14 @@ Salesforce Climate Action Plan led to 6 priorities:
 
 ### Sustainable Development Goals (SDGs)
 
-In 2015, the United Nations General Assembly put forth **17 Sustainable Development Goals (SDGs)**, also known as the Global Goals, designed to call attention to and address the extreme poverty, growing inequality, and changing climate that affect communities throughout the world. 
+In December 2015, 196 countries reached an exciting landmark agreement to reverse climate change and to accelerate and expedite the actions and increase the investments needed for a sustainable, low-carbon future referred to as the Paris Agreement. The Paris Agreement had a central aim to limit global temperature increases to below 1.5 degrees Celsius (1.5˚C).
+
+In 2015, the United Nations General Assembly put forth **17 Sustainable Development Goals (SDGs)**, also known as the Global Goals, designed to call attention to and address the extreme poverty, growing inequality, and changing climate that affect communities throughout the world.
+
+The 2015 gathering in Paris made world history, solidifying the belief that climate change is a global issue that transcends borders. Participating countries agreed to:  
+- **Adopt the Sustainable Development Goals** as a roadmap to end poverty, inequality and achieve environmental sustainability by 2030.
+- **Provide adequate funding and resources** to groups impacted by the effects of climate change, including developing countries.
+- **Innovate** to adopt new technology frameworks that reverse global warming.
 
 The SDGs build upon the **8 Millennium Development Goals (MDGs)**: a set of goals established in 2000 with a deadline of 2015. The MDGs covered fewer causes and only applied to developing countries, the SDGs are more comprehensive and ambitious, and apply universally to all 193 countries who are members of the UN.
 
@@ -107,9 +119,11 @@ In addition to the 3 qualities listed above, the SDGs embody 5 core principles:
 4) **Universality** - The SDGs concern each and every one of us. The 2030 Agenda for Sustainable Development, which was adopted by world leaders in September, 2015 at an historic UN Summit, demonstrates that for all our cultural, economic, and political differences, we all share certain universal ideals and rights. The Global Goals are an opportunity to change the world for the better, and they depend on action. Specifically, they depend on joint, sustained, and early action.
 5) **Accelerating the Sustainable Development Goals, Together** - The idea of a collaborative approach to solving these global challenges is not new but it is now being approached differently. There are increased innovative cross-sector partnerships emerging across the globe to address the SDGs. The idea is to empower each other to achieve them, and to create more comprehensive collective impact—together.
 
-The 2030 Agenda for Sustainable Development is the basis of the SDGs and represents a shared global vision. The 5 dimensions of the 2030 Agenda —Prosperity, People, Planet, Peace, and Partnerships (The 5 P’s) — articulate the scope of this vision.
+The **2030 Agenda for Sustainable Development** is the basis of the SDGs and represents a shared global vision. The 5 dimensions of the 2030 Agenda —Prosperity, People, Planet, Peace, and Partnerships (The 5 P’s) — articulate the scope of this vision.
 
 ![image](https://user-images.githubusercontent.com/92624966/174438640-881c59cd-adc0-4b5f-9889-7a0c40fb61b2.png)
+
+In November 2021, leaders convened in **Glasgow** for **COP26** with the intention for countries to accelerate action toward the goals of the Paris Agreement and complete the Paris Rulebook. The conference did not deliver the action and commitments to reach the Paris agreement, but it elevated the urgency and kept the target of 1.50C still attainable, yet only with further action beyond the pledges made at Glasgow.
 
 **Salesforce’s dedicated sustainability program** addresses:
 - SDG 4: Quality Education
@@ -117,7 +131,79 @@ The 2030 Agenda for Sustainable Development is the basis of the SDGs and represe
 - SDG 7: Affordable and Clean Energy
 - SDG 10: Reduced Inequalities
 - SDG 11: Sustainable Cities and Communities
-- SDG 12:  Responsible Consumption and Production
-- SDG 13:  Climate Action
-- SDG 15:  Life on Land
+- SDG 12: Responsible Consumption and Production
+- SDG 13: Climate Action
+- SDG 15: Life on Land
+
+**Salesforce Impact**:
+- Reimagining Our Energy Systems
+- Eating Smarter 
+- Protecting Our Fresh Water Systems
+- Saving the Oceans
+- Equality Through Climate Justice
+
+### Emissions Reporting
+
+Emissions reporting is a difficult process for companies:
+- **No single source of truth**: Disparate sources of data often lead to a confusing and incomplete picture of energy-using activities.
+- **Time-consuming and manual data tracking**: Organizing energy use data takes a significant amount of time. Some organizations aren’t tracking their carbon footprint at all. Other organizations are trying to work with environmental data in siloed systems or in spreadsheets. Even if an organization tracks this data, it can take 6 to 8 months to collect data from the previous fiscal year.
+- **Poor data reliability**: Data reliability comes under scrutiny because of the series of calculations the data is put through for each emissions category. It becomes a barrier in reporting, as auditing can take months to complete.
+
+
+## Net zero Cloud Basics
+
+The **Salesforce climate policy platform** is guided by three principles: 
+- Reduce emission sources and scale nature-based solutions to reach net-zero emissions by 2050.
+- Reorient economies and financial systems around a net-zero future.
+- Ensure an equitable transition to a more resilient society.
+
+Benefits of Net Zero Cloud:
+- **Easy and Comprehensive Reporting** - Get investor-grade data and detailed dashboards for Scope 1, 2, and 3 emissions, plus waste management, all in one place.
+-	**Trusted Supplier Engagement** - Collaborate safely and securely with suppliers with pre-built portal templates and a supplier management data model.
+-	**Actionable Insights** - Find your fastest path to net zero with what-if analysis, alignment to science-based targets, and forecasting.
+-	**Flexible, Agile, and Scalable Platform** - Use the full power of Salesforce to customize apps and workflows, and seamlessly integrate data from multiple sources.
+
+Net Zero Cloud key differentiators:
+-	**Breaks down data silos** and provides companies with trusted data because the Salesforce platform offers a single source of truth.
+-	**Enables users to record data from various sources**, such as business travel, electricity, third-party freight hauling, and direct fuel use. It then tracks the energy consumption and calculates the emissions for each of these sources using relevant emissions factors.
+-	**Helps evaluate corporate environmental impact** with rich data visualizations and prebuilt CRM Analytics dashboards.
+-	**Helps organizations easily incorporate procurement data** for estimating their value chain emissions and converts spending data into emissions estimates.
+-	**Comes with preloaded reference datasets with emissions factors** readily available for use in the application. Examples include datasets from the US Environmental Protection Agency (EPA), UK Department for Business, Energy & Industrial Strategy (BEIS), and the Intergovernmental Panel on Climate Change (IPCC).
+-	**Enables organizations to create climate action commitments** and set science-based targets that align with their sustainability commitments.
+-	**Tracks supplier sustainability commitments and emissions** using scorecards to easily identify suppliers that don’t yet have a science-based target.
+-	**Helps companies forecast emissions** by activity type for upcoming periods and allows users to track targets against forecast data.
+- **Helps organizations incorporate waste management** data for estimating emissions from waste generated during operations and from product end-of-life disposal.
+
+Net Zero Cloud is a managed package, standalone, and installed just like any AppExchange Package. Customers must have Enterprise Edition or above and Lightning Platform Starter, Plus or Sales/Service Enterprise Editions or above will work.
+
+Enable Net Zero Cloud in Setup > Net Zero Settings.
+
+In Net Zero Cloud, all emissions are converted to their carbon dioxide equivalents and are reported in metric tonnes of carbon dioxide equivalent (tCO₂e).
+
+> **tCO₂e** is a standardized unit for counting greenhouse gas (GHG) emissions, regardless of whether they're from carbon dioxide or another gas, such as methane, nitrous oxide, or one of the dozens of refrigerants used throughout the world today.
+
+### Data Model
+
+![image](https://user-images.githubusercontent.com/92624966/174448124-b6b6dfa9-3b37-4cb7-9d77-274e7bd46d1b.png)
+
+### Licences Profiles & Permission Sets
+
+Permission Set Licenses:
+- **Net Zero Cloud** - Gives access to Net Zero Cloud features and to standard and Net Zero Cloud objects.
+- **Net Zero Analytics Base3 Apps** - Available with a Net Zero Cloud Starter license. Gives access to Net Zero Analytics apps, with limitations.
+- **Net Zero Analytics Base5 Apps** - Available with a Net Zero Cloud Growth license. Gives access to Net Zero Analytics apps, with limitations.
+- **TCRM for Net Zero Analytics** - Available with the CRM Analytics for Net Zero Cloud add-on. Gives users the full platform capabilities of CRM Analytics, including the ability to create and customize CRM Analytics apps and dashboards in Net Zero Cloud.
+
+Net Zero Cloud provides two permission sets:
+- **Net Zero Cloud Manager** - Gives users create, update, and delete access to Net Zero tabs, objects, and fields. Users can enter and modify data.
+- **Net Zero Cloud Auditor** - Gives users read-only access to Net Zero objects, records, and fields.
+
+Suggested profiles for Net Zero Cloud roles:
+- **Net Zero Manager** - Internal team members with edit access. Managers can create and update records, and modify CRM Analytics dashboards.
+- **Net Zero Auditor** - Internal team members or external auditors with read-only access. Auditors can collaborate with Net Zero Cloud teams during the verification process. They can also review data in objects and reports, and view CRM Analytics dashboards.
+
+### Net Zero Settings
+
+Enable the needed settings in _Setup > Net zero Settings_:
+![image](https://user-images.githubusercontent.com/92624966/174470170-2ac17a97-257a-443e-a5c7-cf7e02125a35.png)
 
