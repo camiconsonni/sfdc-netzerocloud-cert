@@ -142,6 +142,11 @@ In November 2021, leaders convened in **Glasgow** for **COP26** with the intenti
 - Saving the Oceans
 - Equality Through Climate Justice
 
+### Carbon Accounting
+Carbon accounting is the process of calculating a company’s overall greenhouse gas emissions. Companies should calculate an initial emission benchmark and track reduction efforts across time (for example, annually).
+
+ ![image](https://user-images.githubusercontent.com/92624966/174602147-f230a6f1-4548-490c-af97-3a70f143d810.png)
+
 ### Emissions Reporting
 
 Emissions reporting is a difficult process for companies:
@@ -206,4 +211,28 @@ Suggested profiles for Net Zero Cloud roles:
 
 Enable the needed settings in _Setup > Net zero Settings_:
 ![image](https://user-images.githubusercontent.com/92624966/174470170-2ac17a97-257a-443e-a5c7-cf7e02125a35.png)
+
+### CRM Analytics
+
+Net Zero Cloud comes integrated with CRM Analytics that provides five predefined dashboards:
+- **Climate Action**: Visualization of total Carbon footprint KPI, divided per Scope. Top Carbon contributors.
+- **Business Travel Impact**: Monitoring trend emissions from Travel by Cost Center and/or by Employee Location. Dashboard filters include business region, vendor, and report date.
+- **Sustainability Audit**: Displays and verifies data used for auditing and compliance purposes. It shows annual summaries of data from 2 years (the reporting year and the comparison year) for context. Dashboard filters include business regions, assets, and asset types.
+- ...
+
+The permission sets in your org depend on which Net Zero Analytics permission set license you have:
+- **Net Zero Analytics base apps permission set license** - Base app administrator permission sets don't let you create custom analytics apps or dashboards, but they do let you create an analytics app from the template that comes with Net Zero Cloud.
+- **TCRM for Net Zero Analytics permission set license** - The TCRM for Net Zero Analytics administrator permission sets grant access to the full range of CRM Analytics functionality to create apps, dashboards, lenses, and datasets. They also allow admins to edit data and customize the CRM Analytics experience.
+
+All user permission sets let users view CRM Analytics dashboards in the Net Zero Analytics app:
+- Net Zero Analytics Admin
+-	CRM Analytics Plus Admin
+-	Net Zero Analytics Base3 Apps Admin
+-	Net Zero Analytics Base5 Apps Admin
+-	Net Zero Analytics User
+-	CRM Analytics Plus User
+-	Net Zero Analytics Base3 Apps User
+-	Net Zero Analytics Base5 Apps User
+
+Net Zero Cloud comes with an Integration User user that’s assigned the Analytics Cloud Integration User profile. The Net Zero Analytics app uses this user and profile.
 
