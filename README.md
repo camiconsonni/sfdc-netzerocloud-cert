@@ -199,6 +199,8 @@ Permission Set Licenses:
 - **Net Zero Analytics Base5 Apps** - Available with a Net Zero Cloud Growth license. Gives access to Net Zero Analytics apps, with limitations.
 - **TCRM for Net Zero Analytics** - Available with the CRM Analytics for Net Zero Cloud add-on. Gives users the full platform capabilities of CRM Analytics, including the ability to create and customize CRM Analytics apps and dashboards in Net Zero Cloud.
 
+![image](https://user-images.githubusercontent.com/92624966/174635461-34e8790e-a56b-491f-9dc3-276c9dbe2c41.png)
+
 Net Zero Cloud provides two permission sets:
 - **Net Zero Cloud Manager** - Gives users create, update, and delete access to Net Zero tabs, objects, and fields. Users can enter and modify data.
 - **Net Zero Cloud Auditor** - Gives users read-only access to Net Zero objects, records, and fields.
@@ -218,7 +220,11 @@ Net Zero Cloud comes integrated with CRM Analytics that provides five predefined
 - **Climate Action**: Visualization of total Carbon footprint KPI, divided per Scope. Top Carbon contributors.
 - **Business Travel Impact**: Monitoring trend emissions from Travel by Cost Center and/or by Employee Location. Dashboard filters include business region, vendor, and report date.
 - **Sustainability Audit**: Displays and verifies data used for auditing and compliance purposes. It shows annual summaries of data from 2 years (the reporting year and the comparison year) for context. Dashboard filters include business regions, assets, and asset types.
-- ...
+- **Scope 3 Procurement**
+- **Waste Management**
+- **Supplier**
+- **Building Energy Intensity **
+- **Predicted Carbon Emissions and Fuel Consumption by Stationary Assets**
 
 The permission sets in your org depend on which Net Zero Analytics permission set license you have:
 - **Net Zero Analytics base apps permission set license** - Base app administrator permission sets don't let you create custom analytics apps or dashboards, but they do let you create an analytics app from the template that comes with Net Zero Cloud.
@@ -235,4 +241,5 @@ All user permission sets let users view CRM Analytics dashboards in the Net Zero
 -	Net Zero Analytics Base5 Apps User
 
 Net Zero Cloud comes with an Integration User user that’s assigned the Analytics Cloud Integration User profile. The Net Zero Analytics app uses this user and profile.
+
 
