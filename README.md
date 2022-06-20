@@ -223,7 +223,7 @@ Net Zero Cloud comes integrated with CRM Analytics that provides five predefined
 - **Scope 3 Procurement**
 - **Waste Management**
 - **Supplier**
-- **Building Energy Intensity **
+- **Building Energy Intensity**
 - **Predicted Carbon Emissions and Fuel Consumption by Stationary Assets**
 
 The permission sets in your org depend on which Net Zero Analytics permission set license you have:
