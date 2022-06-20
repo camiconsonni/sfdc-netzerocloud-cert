@@ -76,6 +76,12 @@ The Greenhouse Gas Protocol has established an emissions inventory that categori
 
 ![image](https://user-images.githubusercontent.com/92624966/174437402-0cbde30a-80c7-403a-873f-3de0c7422dad.png)
 
+The GHG Protocol has identified 15 distinct categories of scope 3 emissions, which can be divided into two groups:
+-	**Upstream emissions**: Indirect GHG emissions related to purchased or acquired goods and services, or other activities that are considered inputs to producing a set of goods or services.
+- **Downstream emissions**: Indirect GHG emissions related to the use and distribution of products and services.
+
+![image](https://user-images.githubusercontent.com/92624966/174645546-ebb8793f-31b9-49c0-819d-5286004192db.png)
+
 ### How to reach Net Zero
 
 - Commit publicly to the shared, global goal of achieving a just and equitable transition to net zero, in line with a 1.5°C future (by 2050).
