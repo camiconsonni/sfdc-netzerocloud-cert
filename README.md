@@ -228,6 +228,33 @@ Automate Net Zero Cloud tasks by configuring the Net Zero Cloud automation prefe
 Turn on any of these automation features:
 ![image](https://user-images.githubusercontent.com/92624966/174720397-f75b7127-c646-4021-9bda-b001c383382d.png)
 
+### Record Types Mapping
+
+In Net Zero Cloud, use record types to create different types of stationary asset environmental sources and vehicle asset emissions sources. These record types are used in your emissions calculations.
+
+First create the record type. Then map it to the picklist value in the corresponding configuration object:
+- **Stationary Asset Environmental Source Record Types** - These record types and picklists determine the types of environmental sources, such as commercial building or data center, and are used to calculate emissions based on the emissions source.
+- **Vehicle Asset Emissions Source Record Type Configurations** - These record types and picklists determine the types of vehicles, such as fleet vehicle or private jet, and are used to calculate emissions based on the emissions source.
+- **Building Energy Intensity Record Type Configurations** - These record types and picklists determine the types of building energy intensity sources, such as building energy intensity or regional building energy intensity, and are used to calculate emissions based on the emissions source.
+
+### Reference data
+
+You can load emissions factors to Net Zero Cloud and also change the loaded data
+
+Default Datasets:
+- **Commercial Buildings Energy Consumption Survey (CBECS) data**
+- **US Environmentally-Extended Input-Output (USEEIO) dataset**
+- **Other Datasets**:
+  - US Environmental Protection Agency (EPA)
+  - electricityMap
+  - EPA Electricity Data (eGRID)
+  - International Energy Agency Data (IEA)
+  - EPA Emission Factors for Greenhouse Gas Inventories
+  - U.S Bureau of Labor Statistics (BLS)
+  - UK Department for Business, Energy & Industrial Strategy (BEIS)
+  - Greenhouse Gas (GHG) Protocol
+  - Fifth Assessment Report of the United Nations Intergovernmental Panel on Climate Change (IPCC AR5)
+
 ### CRM Analytics
 
 Net Zero Cloud comes integrated with CRM Analytics that provides five predefined dashboards:
