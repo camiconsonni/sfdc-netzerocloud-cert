@@ -217,8 +217,16 @@ Suggested profiles for Net Zero Cloud roles:
 
 ### Net Zero Settings
 
-Enable the needed settings in _Setup > Net zero Settings_:
+To calculate all carbon emissions related to energy use data, select **Manage Carbon Accounting** in _Setup > Net Zero Settings_.
+Enable the needed settings:
 ![image](https://user-images.githubusercontent.com/92624966/174470170-2ac17a97-257a-443e-a5c7-cf7e02125a35.png)
+After Manage Carbon Accounting is enabled, you can load reference datasets.
+
+#### Net Zero Configurations
+
+Automate Net Zero Cloud tasks by configuring the Net Zero Cloud automation preferences in _Setup > Net Zero Configurations_.
+Turn on any of these automation features:
+![image](https://user-images.githubusercontent.com/92624966/174720397-f75b7127-c646-4021-9bda-b001c383382d.png)
 
 ### CRM Analytics
 
@@ -226,6 +234,8 @@ Net Zero Cloud comes integrated with CRM Analytics that provides five predefined
 - **Climate Action**: Visualization of total Carbon footprint KPI, divided per Scope. Top Carbon contributors.
 - **Business Travel Impact**: Monitoring trend emissions from Travel by Cost Center and/or by Employee Location. Dashboard filters include business region, vendor, and report date.
 - **Sustainability Audit**: Displays and verifies data used for auditing and compliance purposes. It shows annual summaries of data from 2 years (the reporting year and the comparison year) for context. Dashboard filters include business regions, assets, and asset types.
+
+Other dashboards:
 - **Scope 3 Procurement**
 - **Waste Management**
 - **Supplier**
