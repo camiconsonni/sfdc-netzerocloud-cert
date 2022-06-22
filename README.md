@@ -224,6 +224,7 @@ Old Sustainability Cloud Permission Sets:
 To calculate all carbon emissions related to energy use data, select **Manage Carbon Accounting** in _Setup > Net Zero Settings_.
 Enable the needed settings:
 ![image](https://user-images.githubusercontent.com/92624966/174470170-2ac17a97-257a-443e-a5c7-cf7e02125a35.png)
+
 After Manage Carbon Accounting is enabled, you can load reference datasets.
 
 #### Net Zero Configurations
