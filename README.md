@@ -80,7 +80,7 @@ The GHG Protocol has identified 15 distinct categories of scope 3 emissions, whi
 -	**Upstream emissions**: Indirect GHG emissions related to purchased or acquired goods and services, or other activities that are considered inputs to producing a set of goods or services.
 - **Downstream emissions**: Indirect GHG emissions related to the use and distribution of products and services.
 
-![image](https://user-images.githubusercontent.com/92624966/174645546-ebb8793f-31b9-49c0-819d-5286004192db.png)
+![image](https://user-images.githubusercontent.com/92624966/174964180-6a791e6c-4f4c-4465-b6cf-983cbe714b73.png)
 
 ### How to reach Net Zero
 
@@ -197,23 +197,27 @@ In Net Zero Cloud, all emissions are converted to their carbon dioxide equivalen
 
 ![image](https://user-images.githubusercontent.com/92624966/174448124-b6b6dfa9-3b37-4cb7-9d77-274e7bd46d1b.png)
 
-### Licences Profiles & Permission Sets
+### Licences, Profiles & Permission Sets
 
 Permission Set Licenses:
-- **Net Zero Cloud** - Gives access to Net Zero Cloud features and to standard and Net Zero Cloud objects.
-- **Net Zero Analytics Base3 Apps** - Available with a Net Zero Cloud Starter license. Gives access to Net Zero Analytics apps, with limitations.
-- **Net Zero Analytics Base5 Apps** - Available with a Net Zero Cloud Growth license. Gives access to Net Zero Analytics apps, with limitations.
-- **TCRM for Net Zero Analytics** - Available with the CRM Analytics for Net Zero Cloud add-on. Gives users the full platform capabilities of CRM Analytics, including the ability to create and customize CRM Analytics apps and dashboards in Net Zero Cloud.
 
-![image](https://user-images.githubusercontent.com/92624966/174635461-34e8790e-a56b-491f-9dc3-276c9dbe2c41.png)
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/92624966/174962504-112a82ec-f323-4f47-823c-9a14560c0fff.png">
 
 Net Zero Cloud provides two permission sets:
-- **Net Zero Cloud Manager** - Gives users create, update, and delete access to Net Zero tabs, objects, and fields. Users can enter and modify data.
-- **Net Zero Cloud Auditor** - Gives users read-only access to Net Zero objects, records, and fields.
+
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/92624966/174962887-337183d8-2a32-47f1-9c8f-6f1fcc3925cd.png">
 
 Suggested profiles for Net Zero Cloud roles:
 - **Net Zero Manager** - Internal team members with edit access. Managers can create and update records, and modify CRM Analytics dashboards.
 - **Net Zero Auditor** - Internal team members or external auditors with read-only access. Auditors can collaborate with Net Zero Cloud teams during the verification process. They can also review data in objects and reports, and view CRM Analytics dashboards.
+
+Old Sustainability Cloud Permission Set Licences:
+
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/92624966/174963089-501bc856-f238-48ef-971b-47402eda6ae7.png">
+
+Old Sustainability Cloud Permission Sets:
+
+<img width="912" alt="image" src="https://user-images.githubusercontent.com/92624966/174963199-519af8b4-c933-42ae-8e2a-7158d1769653.png">
 
 ### Net Zero Settings
 
